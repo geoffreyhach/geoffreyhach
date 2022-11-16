@@ -1,4 +1,4 @@
-### Hi there 👋
+### I cut big projects into small pieces of code 👋
 
 <!--
 **geoffreyhach/geoffreyhach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
