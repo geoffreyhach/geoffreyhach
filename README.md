@@ -1,5 +1,5 @@
-### I cut big projects into small pieces of code 👋
-## Front-end dev (React, node.js..) ⚡
+## I cut big projects into small pieces of code 👋
+### Front-end dev (React, node.js..) ⚡
 
 <!--
 **geoffreyhach/geoffreyhach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
