@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning Next.js & express
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hachgeoffrey/)
+- 🔫 Check my [PORTFOLIO](https://www.geoffreyhach.fr/) !
 
 <!--
 **geoffreyhach/geoffreyhach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
