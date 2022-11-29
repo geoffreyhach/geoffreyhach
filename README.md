@@ -1,6 +1,9 @@
 ## I cut big projects into small pieces of code 👋
 ### Front-end dev (React, node.js..) ⚡
 
+- 🌱 I’m currently learning Next.js & express
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hachgeoffrey/)
+
 <!--
 **geoffreyhach/geoffreyhach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
