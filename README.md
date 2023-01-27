@@ -2,11 +2,11 @@
 ### Front-end dev ⚡
 
 - 🌱 Currently learning Next.js & express
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hachgeoffrey/)
-- 🔫 Check my [PORTFOLIO](https://www.geoffreyhach.fr/) !
 - 🛠️ Stack : 
   - Front : React, Next.Js, Typescript, Js, CSS3, MUI
   - Back : Node.Js, Express
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hachgeoffrey/)
+- 🔫 Check my [PORTFOLIO](https://www.geoffreyhach.fr/) !
 
 <!--
 **geoffreyhach/geoffreyhach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
