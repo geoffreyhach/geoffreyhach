@@ -1,9 +1,12 @@
 ## I cut big projects into small pieces of code 👋
 ### Front-end dev (React, node.js..) ⚡
 
-- 🌱 I’m currently learning Next.js & express
+- 🌱 Currently learning Next.js & express
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hachgeoffrey/)
 - 🔫 Check my [PORTFOLIO](https://www.geoffreyhach.fr/) !
+- 🛠️ Stack : 
+  - Front : React, Next.Js, CSS vanilla, JS vanilla, Mui
+  - Back : Node.Js, Express
 
 <!--
 **geoffreyhach/geoffreyhach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
