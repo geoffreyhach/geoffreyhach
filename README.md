@@ -1,5 +1,5 @@
 ## I cut big projects into small pieces of code 👋
-### Front-end dev (React, node.js..) ⚡
+### Front-end dev ⚡
 
 - 🌱 Currently learning Next.js & express
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hachgeoffrey/)
