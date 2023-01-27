@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hachgeoffrey/)
 - 🔫 Check my [PORTFOLIO](https://www.geoffreyhach.fr/) !
 - 🛠️ Stack : 
-  - Front : React, Next.Js, CSS vanilla, JS vanilla, MUI
+  - Front : React, Next.Js, Typescript, Js, CSS3, MUI
   - Back : Node.Js, Express
 
 <!--
