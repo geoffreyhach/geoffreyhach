@@ -1,7 +1,7 @@
 ## I cut big projects into small pieces of code 👋
 ### Front-end dev ⚡
 
-- 🌱 Currently learning Next.js, express & solidity
+- 🌱 Currently learning solidity
 - 🛠️ Stack : 
   - Front : React, Next.Js, Typescript, Js, CSS3, MUI
   - Back : Node.Js, Express
