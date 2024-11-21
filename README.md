@@ -1,12 +1,12 @@
 ## I cut big projects into small pieces of code 👋
-### Front-end dev ⚡
+### Front-end dev 
 
 - 🛠️ Stack : 
   - Front : React, Next.Js, Typescript,
   - Back : PHP, Symfony
   - Tools : Docker, Docker-compose
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hachgeoffrey/)
-- 🔫 Check my [PORTFOLIO](https://www.geoffreyhach.fr/) !
+- ⚡ Check my (old but it's still something) [PORTFOLIO](https://www.geoffreyhach.fr/) 
 
 <!--
 **geoffreyhach/geoffreyhach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
