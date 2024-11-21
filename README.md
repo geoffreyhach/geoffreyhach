@@ -1,10 +1,9 @@
 ## I cut big projects into small pieces of code 👋
 ### Front-end dev ⚡
 
-- 🌱 Currently learning solidity
 - 🛠️ Stack : 
-  - Front : React, Next.Js, Typescript, Js, CSS3, MUI
-  - Back : Node.Js, Express
+  - Front : React, Next.Js, Typescript,
+  - Back : PHP, Symfony
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hachgeoffrey/)
 - 🔫 Check my [PORTFOLIO](https://www.geoffreyhach.fr/) !
 
