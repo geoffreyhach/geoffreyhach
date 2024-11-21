@@ -4,6 +4,7 @@
 - 🛠️ Stack : 
   - Front : React, Next.Js, Typescript,
   - Back : PHP, Symfony
+  - Tools : Docker, Docker-compose
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hachgeoffrey/)
 - 🔫 Check my [PORTFOLIO](https://www.geoffreyhach.fr/) !
 
